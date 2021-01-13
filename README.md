@@ -46,7 +46,7 @@ Activate the virtual environment as above, then run:
 # Creating spreadsheets (CSV files)
 
 1. Activate the virtual environment as above
-1. Run the command: `python3 -m mcs_cycic_analysis create-spreadsheets`
+1. Run the command: `python3 -m mcs_cycic_analysis.cli create-spreadsheets`
 
 The spreadsheet CSV files will be written to `data/spreadsheets/cycic3_sample`. This directory will be created if necessary.
 
